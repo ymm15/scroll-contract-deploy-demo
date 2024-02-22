@@ -10,7 +10,7 @@ This project demonstrates how to use hardhat or foundry to deploy a contract in 
 
 ## Deploy with Hardhat
 
-1. If you haven't already, install [nodejs](https://nodejs.org/en/download/) and [yarn](https://classic.yarnpkg.com/lang/en/docs/install).
+1. If you haven't already, install [nodejs]([https://nodejs.org/en/download/](https://nodejs.org/en/download/current)) and [yarn](https://classic.yarnpkg.com/lang/en/docs/install). //it will install the latest node js
 2. Run `yarn install` to install dependencies.
 3. Create a `.env` file following the example `.env.example` in the root directory. Change `PRIVATE_KEY` to your own account private key in the `.env`.
 4. Run `yarn compile` to compile the contract.
